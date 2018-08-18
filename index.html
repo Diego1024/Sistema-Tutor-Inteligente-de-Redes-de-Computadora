@@ -1,0 +1,323 @@
+<!doctype html>
+<!--[if lt IE 7]>      <html lang="en" class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html lang="en" class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html lang="en" class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html lang="en" class="no-js">
+<!--<![endif]-->
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- ======= titles ======= -->
+    <title>Tutor </title>
+    <meta name="description" content="">
+    <meta name="keywords" content="">
+    <meta name="author" content="themewarehouse">
+    <!-- ======= favicon ======= -->
+    <link rel="icon" type="image/png" href="favicon.png">
+    <!-- ======= Google Fonts ======= -->
+    <!-- Lato+Raleway Google Fonts -->
+    <link href="https://fonts.googleapis.com/css?family=Lato:300,400,700,900|Raleway:300,400,500,600,700,800,900" rel="stylesheet">
+    <!-- ======= all css ======= -->
+    <!-- bootstrap css -->
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <!-- font-awesome css -->
+    <link rel="stylesheet" href="css/font-awesome.min.css">
+    <!-- animate css -->
+    <link rel="stylesheet" href="css/animate.css">
+    <!-- owl carousel css -->
+    <link rel="stylesheet" href="css/owl.carousel.min.css">
+    <!-- hover css -->
+    <link rel="stylesheet" href="css/hover.css">
+    <!-- hover css -->
+    <link rel="stylesheet" href="css/lightbox.min.css">
+    <!-- normalize css -->
+    <link rel="stylesheet" href="css/normalize.css">
+    <!-- slicknav css -->
+    <link rel="stylesheet" href="css/slicknav.min.css">
+    <!-- main css -->
+    <link rel="stylesheet" href="css/main.css">
+    <!-- responsive css -->
+    <link rel="stylesheet" href="css/responsive.css">
+</head>
+
+<body>
+    <!--[if lte IE 9]>
+        <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience and security.</p>
+    <![endif]-->
+
+    <!-- ======= preloader part start ======= -->
+    <div class="preloader">
+        <div class="wrapper">
+            <div class="circle circle-1"></div>
+            <div class="circle circle-1a"></div>
+            <div class="circle circle-2"></div>
+            <div class="circle circle-3"></div>
+            <h1>Loading&hellip;</h1>
+        </div>
+    </div>
+    <!-- ======= preloader part start ======= -->
+
+    <!-- ======= header part start ======= -->
+
+        <!-- menu area -->
+        <div class="menu-area">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-2">
+                        <!-- mobile menu wraper -->
+                        <div class="responsive-menu-wrap"></div>
+                    </div>
+                    <div class="col-md-10">
+                        <!-- menu part -->
+                        <nav class="main-menu">
+                            <ul class="navigation">
+                                <li><a href="index.html" class="menu-active">Inicio</a></li>
+                                <li><a href="login.html">Iniciar Sesión</a></li>
+                                <li><a href="registro.html">Registro</a></li>
+                            </ul>
+                        </nav>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+    <!-- ======= header part end ======= -->
+
+    <!-- ======= slider part start ======= -->
+    <section class="slider-area">
+        <div class="slider-wraper owl-carousel">
+            <!-- single slider -->
+            <div class="single-slider slider-one">
+                <div class="slider-table">
+                    <div class="slider-table-cell">
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-sm-7 col-sm-offset-0">
+                                    <!-- single slider content -->
+                                    <div class="slider-info">
+                                        <h2>Bienvenido</h2>
+                                        <h3>¿Estás listo para aprender?</h3>
+                                        <p>Con este nuevo sistema, tendrás la facilidad de estudiar a tu ritmo y eficazmente</p>
+                                        <a href="login.html" class="donate-btn hvr-shutter-out-horizontal">Iniciar Sesión</a>
+                                        <a href="registro.html" class="donate-btn hvr-shutter-in-horizontal">Registro</a>
+                                    </div>
+                                    <!-- /.single slider content -->
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- single slider -->
+            <div class="single-slider slider-two">
+                <div class="slider-table">
+                    <div class="slider-table-cell">
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-sm-7 col-sm-offset-0">
+                                    <!-- single slider content -->
+                                    <div class="slider-info">
+                                        <h2>Tutor inteligente para el aprendizaje de redes</h2>
+                                        <h3>una herramienta para tu aprendizaje</h3>
+                                    </div>
+                                    <!-- /.single slider content -->
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- single slider -->
+            <div class="single-slider slider-three">
+                <div class="slider-table">
+                    <div class="slider-table-cell">
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-sm-7 col-sm-offset-0">
+                                    <!-- single slider content -->
+                                    <div class="slider-info">
+                                        <h2>La ayuda que necesitas para tu aprendizaje</h2>
+                                        <h3>para mejorar y destacar en la materia</h3>
+                                        <a href="#" class="donate-btn hvr-shutter-out-horizontal">Información</a>
+                                    </div>
+                                    <!-- /.single slider content -->
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- ======= slider part end ======= -->
+
+    <!-- ======= about part start ======= -->
+    <section class="about-area section-padding">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-8 col-md-offset-2 text-center">
+                    <!-- section title -->
+                    <div class="title">
+                        <h2>Sistema de tutor inteligente para el aprendizaje de redes</h2>
+                        <p> info del sistema.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-sm-5">
+                    <!-- about img -->
+                    <div class="about-img">
+                        <img src="img/about/lectura.jpg" alt="">
+                    </div>
+                </div>
+                <div class="col-sm-7">
+                    <!-- about details -->
+                    <div class="about-details">
+                        <p>info del sistema</p>
+                        <a href="#" class="donate-btn more-btn hvr-shutter-out-horizontal">Registro</a>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-4 col-sm-6">
+                    <!-- service content -->
+                    <div class="service-content">
+                        <div class="service-title">
+                            <h3>Iniciar curso</h3>
+                        </div>
+                        <i class="fa fa-child" aria-hidden="true"></i>
+                        <p>info del sistema </p>
+                        <a href="#" class="donate-btn more-btn hvr-shutter-out-horizontal">Iniciar Sesión</a>
+                    </div>
+                </div>
+                <div class="col-md-4 col-sm-6">
+                    <!-- service content -->
+                    <div class="service-content">
+                        <div class="service-title">
+                            <h3>Acerca del contenido</h3>
+                        </div>
+                        <i class="fa fa-globe" aria-hidden="true"></i>
+                        <p>info del sistema </p>
+                        <a href="#" class="donate-btn more-btn hvr-shutter-out-horizontal">más información</a>
+                    </div>
+                </div>
+                <div class="col-md-4 col-sm-12">
+                    <!-- service content -->
+                    <div class="service-content mobile-auto">
+                        <div class="service-title">
+                            <h3>Registro</h3>
+                        </div>
+                        <i class="fa fa-users" aria-hidden="true"></i>
+                        <p>info acerca del registro </p>
+                        <a href="#" class="donate-btn more-btn hvr-shutter-out-horizontal">Registro</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- ======= about part end ======= -->
+
+    <!-- ======= donate-count part start ======= -->
+    <section class="donate-count-area section-padding parallax">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-7 col-md-offset-0">
+                    <div class="donate-info">
+                        <h2>Práctica y Aprende</h2>
+                        <p>info </p>
+                        <a href="#" class="donate-btn more-btn hvr-shutter-out-horizontal">Registro</a>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="skill-progress-bar">
+                        <div id="bar1" class="barfiller">
+                            <div class="tipWrap">
+                                <span class="tip"></span>
+                            </div>
+                            <!-- progress bar -->
+                            <span class="fill" data-percentage="90"></span>
+                        </div>
+                    </div>
+                    <div class="progress-info">
+                        <h3>Aprendizaje que se adapta a ti</h3>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- ======= donate-count part end ======= -->
+
+   
+    <!-- ======= patner area start ======= -->
+    <div class="patner-area section-padding">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="partners-brand owl-carousel">
+                        <div class="single-partners-brand">
+                            <a href="#"><img src="img/partners/01.png" alt="Clints Barnd"></a>
+                        </div>
+                        <div class="single-partners-brand">
+                            <a href="#"><img src="img/partners/02.png" alt="Clints Barnd"></a>
+                        </div>
+                        <div class="single-partners-brand">
+                            <a href="#"><img src="img/partners/03.png" alt="Clints Barnd"></a>
+                        </div>
+                        <div class="single-partners-brand">
+                            <a href="#"><img src="img/partners/04.png" alt="Clints Barnd"></a>
+                        </div>
+                        <div class="single-partners-brand">
+                            <a href="#"><img src="img/partners/05.png" alt="Clints Barnd"></a>
+                        </div>
+                        <div class="single-partners-brand">
+                            <a href="#"><img src="img/partners/06.png" alt="Clints Barnd"></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- ======= patner area end ======= -->
+
+   
+
+    <!-- ======= All js ======= -->
+    <!-- modernizr js -->
+    <script src="js/vendor/modernizr-3.5.0.min.js"></script>
+    <!-- jQuery min js -->
+    <script src="js/vendor/jquery-3.2.1.min.js"></script>
+    <!-- bootstrap js -->
+    <script src="js/bootstrap.min.js"></script>
+    <!-- sticky js -->
+    <script src="js/jquery.sticky.js"></script>
+    <!-- owl carousel js -->
+    <script src="js/owl.carousel.min.js"></script>
+    <!-- jarallax js -->
+    <script src="js/jarallax.min.js"></script>
+    <!-- waypoints js -->
+    <script src="js/jquery.waypoints.min.js"></script>
+    <!-- barfiller js -->
+    <script src="js/jquery.barfiller.js"></script>
+    <!-- countdown js -->
+    <script src="js/jquery.countdown.min.js"></script>
+    <!-- countdown js -->
+    <script src="js/isotope.min.js"></script>
+    <!-- lightbox js -->
+    <script src="js/lightbox.min.js"></script>
+    <!-- scrollUp js -->
+    <script src="js/jquery.scrollUp.min.js"></script>
+    <!-- slick js -->
+    <script src="js/slicknav.min.js"></script>
+    <!-- plugins js -->
+    <script src="js/plugins.js"></script>
+    <!-- main js -->
+    <script src="js/main.js"></script>
+
+</body>
+
+</html>
